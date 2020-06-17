@@ -1,0 +1,35 @@
+.body {
+    width: 100%;
+    max-height: 93%;
+    height: 100vh;
+    background-color:rgb(10, 63, 3);
+    color: black;
+    box-sizing: border-box;
+    padding-top: 5px;
+
+    display: flex;
+    
+}
+/*LEFT MENU*/
+.left_menu {
+    width: 20%;
+}
+
+.card-body {
+    padding: 0px;
+}
+
+.list-group-item {
+    padding: 0px;
+}
+
+/*DISPLAY*/
+
+.display {
+    width: 80%;
+    padding-left: 5px;
+    padding-right: 5px;
+
+    display: flex;
+    flex-direction: column;
+}

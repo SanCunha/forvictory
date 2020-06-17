@@ -1,0 +1,7 @@
+.panel {
+    height: 100%;
+    margin-bottom: 4px;
+
+    border: 1pt solid white;
+    border-radius: 8px;
+}
